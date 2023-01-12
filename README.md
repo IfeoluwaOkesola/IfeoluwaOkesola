@@ -28,4 +28,6 @@ I'm Ifeoluwa Okesola a Backend Developer.
 #### Bizness
 - :email: atoyebiife@gmail.com
 
-
+#### Socials
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeoluwa-okesola-128584252/) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/OkesolaIfeoluwa)](https://twitter.com/OkesolaIfeoluwa)
