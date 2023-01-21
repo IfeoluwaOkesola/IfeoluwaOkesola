@@ -4,7 +4,7 @@ I'm Ifeoluwa Okesola a Backend Developer.
 
 
 
-- 🔭 I’m currently working on wallet app.
+- 🔭 I’m currently working on ecommerce site.
 - 🌱 I’m currently learning C#.
 - 🤔 I’m looking for help with C#.
 - 💞️ I’m looking to collaborate on backend projects.
