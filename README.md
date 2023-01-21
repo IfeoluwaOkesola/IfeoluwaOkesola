@@ -2,7 +2,7 @@
 
 I'm Ifeoluwa Okesola a Backend Developer. 
 
-<!-- TODO: Add last video link -->
+
 
 - 🔭 I’m currently working on wallet app.
 - 🌱 I’m currently learning C#.
@@ -14,7 +14,7 @@ I'm Ifeoluwa Okesola a Backend Developer.
 
 #### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
+
 
  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MySQL Badge](https://img.shields.io/badge/-MySQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535a)](#)
 
@@ -27,6 +27,7 @@ I'm Ifeoluwa Okesola a Backend Developer.
 
 #### Bizness
 - :email: atoyebiife@gmail.com
+- [portfolio](http://gitshowcase.com/ifeoluwaokesola)
 
 #### Socials
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeoluwa-okesola-128584252/) 
